@@ -1,0 +1,35 @@
+.menu-toggle {
+  display: block;
+  float: right;
+  height: rem(18);
+  margin-top: 0.3rem;
+  position: relative;
+  width: rem(36);
+
+  .common {
+    background-color: $white;
+    height: rem(2);
+    width: 100%;
+    position: absolute;
+  }
+
+  @at-root #{&}__top {
+    @extend .common;
+    top: 0;
+      }
+
+  @at-root #{&}__bottom {
+    @extend .common;
+    bottom: 0;
+  }
+}
+
+.menu-toggle.menu-toggle--active {
+  @at-root #{&}__top {
+    //@include transition(transform 10s ease-in-out 0.3s);
+    @include transform(rotate(135deg));
+  }
+
+  @at-root #{&}__bottom {
+  }
+}

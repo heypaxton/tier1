@@ -1,0 +1,52 @@
+.product-card {
+  margin-bottom: 2rem;
+
+  .inner {
+    background: $stark;
+    box-shadow: 0 rem(2) rem(5) rgba($black, 0.5);
+    border-radius: rem(5);
+    overflow: hidden;
+    position: relative;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  .description {
+    padding: 1rem;
+    text-align: center;
+
+    h4 {
+      font-size: rem(18);
+    }
+  }
+
+  .details {
+    background: rgba($stark, 0.90);
+    display: none;
+    padding: 2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    @include size(100% 100%);
+
+    h4 {
+      border-bottom: rem(1) solid $gold;
+      text-transform: uppercase;
+      padding-bottom: 0.5rem;
+    }
+
+    dt {
+      font-weight: bold;
+      font-family: $heading;
+      margin-top: 1rem;
+    }
+
+    dd {
+      font-family: $body;
+      margin-left: 0;
+    }
+  }
+}

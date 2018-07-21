@@ -1,0 +1,11 @@
+.section-panel {
+  overflow: hidden;
+  padding: 6rem 0;
+
+  .panel-half {
+    float: left;
+    min-height: rem(550);
+    width: 50%;
+    padding: 0 4rem;
+  }
+}

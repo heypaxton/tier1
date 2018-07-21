@@ -1,0 +1,107 @@
+---
+layout: default
+body-class: home
+---
+<section class="splash">
+  <div class="container">
+    <div class="text">
+      <h1>High Quality Stone from Our Facilities to Your Visions</h1>
+      <a class="btn btn-large btn-clear">Our Products</a>
+      <a class="btn btn-large btn-secondary">Contact Us</a>
+    </div>
+  </div>
+</section>
+<section class="section-panel about">
+  <div class="panel-half">
+    <div class="inner">
+      <div class="text">
+        <h2 class="section-heading">About Us</h2>
+        <p  class="section-text">
+          Jelly lollipop cupcake cookie jujubes tootsie roll cake. Chocolate cake cheesecake candy canes biscuit. Biscuit donut bonbon. Pudding gingerbread sweet roll lollipop jelly chupa chups chupa chups.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="panel-half image">
+    <div class="inner"></div>
+  </div>
+</section>
+<section id="products" class="section-panel products">
+  <div class="container">
+    <div class="panel-full">
+      <h2 id="class="section-heading">Our Products</h2>
+      <div class="product-list-tabs">
+        <a class="waves-effect waves-light btn ledgestone">Ledgestone Panel</a>
+        <a class="waves-effect waves-light btn slimline">Slimline Laminates</a>
+      </div>
+      <!-- end .product-list-tabs -->
+
+      <div class="product-list ledgestone">
+        <h3>Ledgestone Panel</h3>
+        <div class="product-cards row">
+          {% for p in site.data.ledgestone %}
+          <div class="product-card col s12 m6 l4">
+            <div class="inner">
+              <img src="{{p.image}}" alt="{{p.title}}"/>
+              <div class="description">
+                <h4>{{p.title}}</h4>
+                <a href="#french-cremar" class="btn btn-secondary reveal">Details</a>
+              </div>
+              <div id="french-cremar" class="details animated">
+                <h4>Sizes</h4>
+                <dl>
+                  <dt>Ledge Stone Panels</dt>
+                  {% for ps in p.sizes.panel %}
+                  <dd>{{ps}}</dd>
+                  {% endfor %}
+                  <dt>Ledge Stone Corner</dt>
+                  {% for cs in p.sizes.corner %}
+                  <dd>{{cs}}</dd>
+                  {% endfor %}
+                </dl>
+                <a href="" class="btn btn-secondary dismiss">Back</a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <!-- end .product-cards .row -->
+      </div>
+      <!-- end .product-list .ledgestone -->
+
+      <div class="product-list slimline">
+        <h3>Slimline Laminates</h3>
+        <div class="product-cards row">
+          {% for p in site.data.slimline %}
+          <div class="product-card col s12 m6 l4">
+            <div class="inner">
+              <img src="{{p.image}}" alt="{{p.title}}"/>
+              <div class="description">
+                <h4>{{p.title}}</h4>
+                <a href="#french-cremar" class="btn btn-secondary reveal">Details</a>
+              </div>
+              <div id="french-cremar" class="details animated">
+                <h4>Sizes</h4>
+                <dl>
+                  {% if p.sizes %}
+                  {% for s in p.sizes %}
+                  <dd>{{s}}</dd>
+                  {% endfor %}
+                  {% else %}
+                  <dd>Size not available</dd>
+                  {% endif %}
+                </dl>
+                <a href="" class="btn btn-secondary dismiss">Back</a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <!-- end .product-list .slimline -->
+
+    </div>
+    <!-- end .panel-full -->
+  </div>
+  <!-- end .container -->
+</section>

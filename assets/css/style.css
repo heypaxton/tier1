@@ -1,0 +1,174 @@
+@import "http://fonts.googleapis.com/css?family=Fjalla+One|Cantarell:400,400italic,700italic,700";
+body {
+  background: #F1F1F1; }
+
+body {
+  font-family: "Cantarell", "Georgia", serif;
+  font-size: 18px; }
+
+h1, h2, h3, h4 {
+  font-family: "Fjalla One", "Verdana", "Arial", sans-serif;
+  margin-top: 0; }
+
+h4 {
+  font-size: 1.25rem;
+  letter-spacing: 0.05rem; }
+
+.btn {
+  background: #DEB137;
+  border: 0.0625rem solid #ca9d23;
+  color: #444444;
+  font-family: "Fjalla One", "Verdana", "Arial", sans-serif; }
+  .btn:hover {
+    background: #ca9d23; }
+
+.btn.btn-secondary {
+  background: #161D3B;
+  border: 0.0625rem solid #303030;
+  color: #F1F1F1; }
+  .btn.btn-secondary:hover {
+    background: #303030; }
+
+.brand-logo {
+  margin-top: 0.25rem; }
+  .brand-logo img {
+    width: 55%; }
+
+.menu-toggle {
+  display: block;
+  float: right;
+  height: 1.125rem;
+  margin-top: 0.3rem;
+  position: relative;
+  width: 2.25rem; }
+  .menu-toggle .common, .menu-toggle .menu-toggle__top, .menu-toggle .menu-toggle__bottom {
+    background-color: #F1F1F1;
+    height: 0.125rem;
+    width: 100%;
+    position: absolute; }
+  .menu-toggle__top {
+    top: 0; }
+  .menu-toggle__bottom {
+    bottom: 0; }
+
+.menu-toggle.menu-toggle--active__top {
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  transform: rotate(135deg); }
+
+nav.navbar {
+  background: rgba(68, 68, 68, 0.85);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100; }
+
+.product-card {
+  margin-bottom: 2rem; }
+  .product-card .inner {
+    background: #FFFFFF;
+    box-shadow: 0 0.125rem 0.3125rem rgba(68, 68, 68, 0.5);
+    border-radius: 0.3125rem;
+    overflow: hidden;
+    position: relative; }
+  .product-card img {
+    width: 100%; }
+  .product-card .description {
+    padding: 1rem;
+    text-align: center; }
+    .product-card .description h4 {
+      font-size: 1.125rem; }
+  .product-card .details {
+    background: rgba(255, 255, 255, 0.9);
+    display: none;
+    padding: 2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%; }
+    .product-card .details h4 {
+      border-bottom: 0.0625rem solid #DEB137;
+      text-transform: uppercase;
+      padding-bottom: 0.5rem; }
+    .product-card .details dt {
+      font-weight: bold;
+      font-family: "Fjalla One", "Verdana", "Arial", sans-serif;
+      margin-top: 1rem; }
+    .product-card .details dd {
+      font-family: "Cantarell", "Georgia", serif;
+      margin-left: 0; }
+
+.product-list {
+  margin-top: 4rem; }
+
+.section-panel.about {
+  background: #FFFFFF; }
+
+.section-panel.about .panel-half .inner {
+  display: table;
+  min-height: 31.25rem; }
+.section-panel.about .panel-half .text {
+  display: table-cell;
+  vertical-align: middle; }
+
+.section-panel.about .text {
+  text-align: center; }
+
+.section-panel.about .image {
+  background: url("../img/about-image-panel.jpg") no-repeat right center;
+  background-size: 80%; }
+
+.section-heading {
+  border-bottom: 0.125rem solid #DEB137;
+  color: #444444;
+  padding-bottom: 0.5rem;
+  text-transform: uppercase; }
+
+.section-text {
+  color: rgba(68, 68, 68, 0.8); }
+
+.section-panel {
+  overflow: hidden;
+  padding: 6rem 0; }
+  .section-panel .panel-half {
+    float: left;
+    min-height: 34.375rem;
+    width: 50%;
+    padding: 0 4rem; }
+
+.section-panel.products {
+  background: #F1F1F1; }
+
+.splash {
+  background: #444444 url("../img/splash-bg.jpg") no-repeat center center;
+  padding: 14rem 0;
+  position: relative; }
+  .splash::after {
+    background: rgba(68, 68, 68, 0.8);
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0; }
+  .splash .text {
+    text-align: center;
+    position: relative;
+    z-index: 1; }
+  .splash .text h1 {
+    color: #F1F1F1; }
+  .splash .text p {
+    color: #F1F1F1;
+    font-size: 2rem; }
+  .splash .text .btn:nth-of-type(1) {
+    margin-right: 0.5rem; }
+  .splash .text .btn:nth-of-type(2) {
+    margin-left: 0.5rem; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,5 +1,5 @@
 - title: FRENCH CREMAR - BROKEN FACE (ANTIQUE)
-  image: /assets/img/products/ledgestone/french-cremar-broken-face-(antique)-b.jpg
+  image: assets/img/products/ledgestone/french-cremar-broken-face-(antique)-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -8,7 +8,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: FRENCH CREMAR - HONED (ANTIQUE)
-  image: /assets/img/products/ledgestone/french-cremar-honed-(antique)-b.jpg
+  image: assets/img/products/ledgestone/french-cremar-honed-(antique)-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -17,7 +17,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: TITANIUM BLACK- BROKEN FACE
-  image: /assets/img/products/ledgestone/titanium-black-broken-face-b.jpg
+  image: assets/img/products/ledgestone/titanium-black-broken-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -26,7 +26,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: WHITE QUARTZITE - SPLIT FACE
-  image: /assets/img/products/ledgestone/white-quartzite-split-face-b.jpg
+  image: assets/img/products/ledgestone/white-quartzite-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -35,7 +35,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: PORTLAND - ROCK FACE (ANTIQUE)
-  image: /assets/img/products/ledgestone/portland-rock-face-(antique)-b.jpg
+  image: assets/img/products/ledgestone/portland-rock-face-(antique)-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -44,7 +44,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: VOLCANIC ROCK - SPLIT FACE
-  image: /assets/img/products/ledgestone/volcanic-rock-split-face-b.jpg
+  image: assets/img/products/ledgestone/volcanic-rock-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -53,7 +53,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: ALPINE GREY - SPLIT FACE
-  image: /assets/img/products/ledgestone/alpine-grey-split-face-b.jpg
+  image: assets/img/products/ledgestone/alpine-grey-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -62,7 +62,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: MOCCA - SPLIT FACE
-  image: /assets/img/products/ledgestone/mocca-split-face-b.jpg
+  image: assets/img/products/ledgestone/mocca-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -71,7 +71,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: AMAZON - SPLIT FACE
-  image: /assets/img/products/ledgestone/amazon-split-face-b.jpg
+  image: assets/img/products/ledgestone/amazon-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -80,7 +80,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: SPICE CRAFT - SPLIT FACE
-  image: /assets/img/products/ledgestone/spice-craft-split-face-b.jpg
+  image: assets/img/products/ledgestone/spice-craft-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -89,7 +89,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: MUSTANG - SPLIT FACE
-  image: /assets/img/products/ledgestone/mustang-split-face-b.jpg
+  image: assets/img/products/ledgestone/mustang-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -98,7 +98,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: HARAPPA GOLD - SPLIT FACE
-  image: /assets/img/products/ledgestone/harappa-gold-split-face-b.jpg
+  image: assets/img/products/ledgestone/harappa-gold-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -107,7 +107,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: DAMASCUS GREEN - SPLIT FACE
-  image: /assets/img/products/ledgestone/damascus-green-split-face-b.jpg
+  image: assets/img/products/ledgestone/damascus-green-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -116,7 +116,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: COPPER GOLD - SPLIT FACE
-  image: /assets/img/products/ledgestone/copper-gold-split-face-b.jpg
+  image: assets/img/products/ledgestone/copper-gold-split-face-b.jpg
   sizes:
     panel:
       - 6" x 24" (15 x 61 Cm)
@@ -125,7 +125,7 @@
       - 6" x 18" (15 x 45 Cm)
 
 - title: Application Ledge Stone Panel
-  image: /assets/img/products/ledgestone/application2_la.jpg
+  image: assets/img/products/ledgestone/application2_la.jpg
   sizes:
     panel:
       Not available

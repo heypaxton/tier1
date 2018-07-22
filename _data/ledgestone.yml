@@ -1,133 +1,38 @@
-- title: FRENCH CREMAR - BROKEN FACE (ANTIQUE)
-  image: assets/img/products/ledgestone/french-cremar-broken-face-(antique)-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: FRENCH CREMAR - HONED (ANTIQUE)
-  image: assets/img/products/ledgestone/french-cremar-honed-(antique)-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: TITANIUM BLACK- BROKEN FACE
-  image: assets/img/products/ledgestone/titanium-black-broken-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: WHITE QUARTZITE - SPLIT FACE
-  image: assets/img/products/ledgestone/white-quartzite-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: PORTLAND - ROCK FACE (ANTIQUE)
-  image: assets/img/products/ledgestone/portland-rock-face-(antique)-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: VOLCANIC ROCK - SPLIT FACE
-  image: assets/img/products/ledgestone/volcanic-rock-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: ALPINE GREY - SPLIT FACE
-  image: assets/img/products/ledgestone/alpine-grey-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: MOCCA - SPLIT FACE
-  image: assets/img/products/ledgestone/mocca-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: AMAZON - SPLIT FACE
-  image: assets/img/products/ledgestone/amazon-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: SPICE CRAFT - SPLIT FACE
-  image: assets/img/products/ledgestone/spice-craft-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: MUSTANG - SPLIT FACE
-  image: assets/img/products/ledgestone/mustang-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: HARAPPA GOLD - SPLIT FACE
-  image: assets/img/products/ledgestone/harappa-gold-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: DAMASCUS GREEN - SPLIT FACE
-  image: assets/img/products/ledgestone/damascus-green-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: COPPER GOLD - SPLIT FACE
-  image: assets/img/products/ledgestone/copper-gold-split-face-b.jpg
-  sizes:
-    panel:
-      - 6" x 24" (15 x 61 Cm)
-    corner:
-      - 6" x 6" (15 x 15 Cm)
-      - 6" x 18" (15 x 45 Cm)
-
-- title: Application Ledge Stone Panel
-  image: assets/img/products/ledgestone/application2_la.jpg
-  sizes:
-    panel:
-      Not available
-    corner:
-      Not available
+- title: Amazon Splitface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_1.jpg
+- title: Copper Gold Splitface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_2.jpg
+- title: Demascus Greene
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_3.jpg
+- title: French Crm Brokeface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_4.jpg
+- title: Manhattan Splitface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_5.jpg
+- title: Niagra 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_6.jpg
+- title: Portland Rock face  
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_7.jpg
+- title: Portland Splitface 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_8.jpg
+- title: Spicecraft Rock face 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_9.jpg
+- title: Spice craft Split face
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_10.jpg
+- title: Titanium Rock face 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_11.jpg
+- title: White Quartzite Split face 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_12.jpg
+- title: Alpine Grey
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_13.jpg
+- title: Harappa Gold Splitface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_14.jpg
+- title: Macedonia Splitface
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_15.jpg
+- title: White Quartzite Split face 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_16.jpg
+- title: Niagra Rock
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_17.jpg
+- title: Tanzania Rock
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_18.jpg
+- title: Tanzania Splitface 
+  image: http://mstone.us.com/images/products/stackstone-product/big/pic_19.jpg

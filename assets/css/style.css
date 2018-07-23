@@ -19,7 +19,7 @@ h4 {
   border: 0.0625rem solid #ca9d23;
   color: #444444;
   font-family: "Fjalla One", "Verdana", "Arial", sans-serif; }
-  .btn:hover {
+  .btn.active, .btn:hover {
     background: #ca9d23; }
 
 .btn.btn-secondary {
@@ -111,6 +111,9 @@ nav.navbar {
 
 .product-list {
   margin-top: 4rem; }
+
+.product-list.slimline, .product-list.historical, .product-list.timberline {
+  display: none; }
 
 .section-panel.about {
   background: #FFFFFF; }

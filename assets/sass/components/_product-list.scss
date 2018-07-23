@@ -1,3 +1,11 @@
 .product-list {
   margin-top: 4rem;
 }
+
+.product-list {
+  &.slimline,
+  &.historical,
+  &.timberline {
+    display: none;
+  }
+}

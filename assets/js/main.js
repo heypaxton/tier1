@@ -26,7 +26,31 @@
   // _tOne.setEqualHeights($('.product-card .inner'));
 
   _tOne.toggleProductList = function() {
-    $('.product-list.ledgestone');
+    $('.product-list-tabs .btn').click(function() {
+      if ($(this).hasClass('historical')) {
+        $('.product-list').hide();
+        $('.product-list.historical').fadeIn();
+      }
+
+      if ($(this).hasClass('ledgestone')) {
+        $('.product-list').hide();
+        $('.product-list.ledgestone').fadeIn();
+      }
+
+      if ($(this).hasClass('timberline')) {
+        $('.product-list').hide();
+        $('.product-list.timberline').fadeIn();
+      }
+
+      if ($(this).hasClass('slimline')) {
+        $('.product-list').hide();
+        $('.product-list.slimline').fadeIn();
+      }
+
+      $('.product-list-tabs .btn').removeClass('active');
+      $(this).addClass('active');
+    });
   }
+  _tOne.toggleProductList();
 
 })(jQuery)

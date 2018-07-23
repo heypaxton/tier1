@@ -103,6 +103,12 @@ nav.navbar {
       font-family: "Cantarell", "Georgia", serif;
       margin-left: 0; }
 
+.ledgestone .product-card .inner {
+  min-height: 200px; }
+
+.historical .product-card .inner {
+  min-height: 410px; }
+
 .product-list {
   margin-top: 4rem; }
 

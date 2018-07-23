@@ -23,7 +23,7 @@
       }
     });
   };
-  _tOne.setEqualHeights($('.product-card .inner'));
+  // _tOne.setEqualHeights($('.product-card .inner'));
 
   _tOne.toggleProductList = function() {
     $('.product-list.ledgestone');

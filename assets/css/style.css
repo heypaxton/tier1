@@ -171,7 +171,8 @@ nav.navbar {
     position: relative;
     z-index: 1; }
   .splash .text h1 {
-    color: #F1F1F1; }
+    color: #F1F1F1;
+    line-height: 1.2; }
   .splash .text p {
     color: #F1F1F1;
     font-size: 2rem; }

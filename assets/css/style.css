@@ -104,7 +104,9 @@ nav.navbar {
       margin-left: 0; }
 
 .ledgestone .product-card .inner {
-  min-height: 200px; }
+  min-height: 265px; }
+  .ledgestone .product-card .inner .image {
+    padding: 50px 1rem; }
 
 .historical .product-card .inner {
   min-height: 410px; }

@@ -1,0 +1,19 @@
+- title: Ledgestone Panels 
+  class: ledgestone
+  image: /assets/img/category-ledgestone.jpg
+  link: /products/ledgestone.html
+
+- title: Historical Limestone Flooring
+  class: historical 
+  image: /assets/img/category-historical.jpg
+  link: /products/historical.html
+
+- title: Slimline Stone Laminates 
+  class: timberline 
+  image: /assets/img/category-slimline.jpg
+  link: /products/slimline.html
+
+- title: Timberline Wood Panels 
+  class: timberline 
+  image: /assets/img/category-timberline.jpg
+  link: /products/timberline.html

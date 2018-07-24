@@ -51,6 +51,6 @@
       $(this).addClass('active');
     });
   }
-  _tOne.toggleProductList();
+  // _tOne.toggleProductList();
 
 })(jQuery)

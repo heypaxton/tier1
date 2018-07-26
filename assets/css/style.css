@@ -21,6 +21,10 @@ ul.image-list {
 ul.image-list img {
   vertical-align: middle; }
 
+video {
+  background: black;
+  min-height: 400px; }
+
 .btn {
   background: #DEB137;
   border: 0.0625rem solid #ca9d23;

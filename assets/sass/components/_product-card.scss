@@ -52,7 +52,10 @@
 }
 
 .ledgestone .product-card .inner {
-  min-height: 290px;
+  min-height: 300px;
+  @include mq-l {
+    min-height: 345px;
+  }
 
   .image { padding: 50px 1rem; }
 }

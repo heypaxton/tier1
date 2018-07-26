@@ -121,7 +121,10 @@ nav.navbar {
       margin-left: 0; }
 
 .ledgestone .product-card .inner {
-  min-height: 290px; }
+  min-height: 300px; }
+  @media (min-width: 992px) {
+    .ledgestone .product-card .inner {
+      min-height: 345px; } }
   .ledgestone .product-card .inner .image {
     padding: 50px 1rem; }
 

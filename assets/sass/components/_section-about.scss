@@ -6,7 +6,9 @@
 
   .inner {
     display: table;
-    min-height: rem(500);
+    @include mq-l {
+      min-height: rem(500);
+    }
   }
 
   .text {

@@ -1,14 +1,17 @@
 @import "//fonts.googleapis.com/css?family=Fjalla+One|Cantarell:400,400italic,700italic,700";
 body {
-  background: #F1F1F1; }
-
-body {
   font-family: "Cantarell", "Georgia", serif;
   font-size: 18px; }
 
 h1, h2, h3, h4 {
   font-family: "Fjalla One", "Verdana", "Arial", sans-serif;
   margin-top: 0; }
+
+h1 {
+  font-size: 2.2rem; }
+  @media (min-width: 992px) {
+    h1 {
+      font-size: 4.2rem; } }
 
 h4 {
   font-size: 1.25rem;
@@ -39,6 +42,9 @@ video {
   color: #F1F1F1; }
   .btn.btn-secondary:hover {
     background: #303030; }
+
+footer.page-footer {
+  margin-top: 0; }
 
 .brand-logo {
   margin-top: 0.25rem; }
@@ -129,8 +135,10 @@ nav.navbar {
   background: #FFFFFF; }
 
 .section-panel.about .panel-half .inner {
-  display: table;
-  min-height: 31.25rem; }
+  display: table; }
+  @media (min-width: 992px) {
+    .section-panel.about .panel-half .inner {
+      min-height: 31.25rem; } }
 .section-panel.about .panel-half .text {
   display: table-cell;
   vertical-align: middle; }
@@ -156,17 +164,22 @@ nav.navbar {
   padding: 6rem 0; }
   .section-panel .panel-half {
     float: left;
-    min-height: 34.375rem;
-    width: 50%;
     padding: 0 4rem; }
+    @media (min-width: 768px) {
+      .section-panel .panel-half {
+        min-height: 34.375rem;
+        width: 50%; } }
 
 .section-panel.products {
   background: #F1F1F1; }
 
 .splash {
   background: #444444 url("../img/splash-bg.jpg") no-repeat center center;
-  padding: 14rem 0;
+  padding: 7rem 0;
   position: relative; }
+  @media (min-width: 768px) {
+    .splash {
+      padding: 14rem 0; } }
   .splash::after {
     background: rgba(68, 68, 68, 0.8);
     content: '';

@@ -1,7 +1,11 @@
 .splash {
   background: $black url('../img/splash-bg.jpg') no-repeat center center;
-  padding: 14rem 0;
+  padding: 7rem 0;
   position: relative;
+
+  @include mq-m {
+    padding: 14rem 0;
+  }
 
   &::after {
     background: rgba($black, 0.8);

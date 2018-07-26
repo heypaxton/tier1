@@ -1,38 +1,20 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+<footer id="contact" class="blue-grey page-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col l6 s12">
+        <a href="/" class="brand-logo"><img src="{{ "/assets/img/logo.svg" | prepend: site.baseurl }}" alt="Tier 1 Stone and Tile"></a>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
+      <div class="col l4 offset-l2 s12">
+        <ul>
+          <li class="grey-text text-lighten-3">PO Box 7072 Sherwood, AR 72124</li>
+          <li class="grey-text text-lighten-3">info@tier1stone.com</li>
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
       </div>
     </div>
-
   </div>
-
+  <div class="footer-copyright">
+    <div class="container">
+    © 2018 Tier 1 Stone and Tile 
+    </div>
+  </div>
 </footer>

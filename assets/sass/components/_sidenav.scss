@@ -1,0 +1,13 @@
+.sidenav {
+  display: none;
+  position: fixed;
+  top: 41px;
+  z-index: 1000;
+  padding: 1rem;
+  background: $gold;
+  width: 100%;
+
+  a {
+    color: $navy;
+  }
+}

@@ -11,7 +11,12 @@
     {% include footer.html %}
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.js"></script>
     <script src="{{ "assets/js/main.js" | preprend: site.baseurl }}"></script>
+    <script>
+      $('.button-collapse').click(function() {
+        $('.sidenav').fadeToggle();
+      });
+    </script>
   </body>
 </html>

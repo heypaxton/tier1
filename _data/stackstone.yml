@@ -1,0 +1,154 @@
+- title: Amazon
+  image: /assets/img/products/stackstone/amazon.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Mocha
+  image: /assets/img/products/stackstone/mocha.jpg
+  size: 6" x 24"
+  nature: Quartzite
+  formats:
+    - flats
+    - corners
+  finishes:
+    - Split face
+
+- title: Alpine Grey
+  image: /assets/img/products/stackstone/alpine-grey.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Macedonian Splitface
+  image:  /assets/img/products/stackstone/macedonian-splitface.jpg
+  size:  6" x 24"
+  nature: Slate
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Desert Black
+  image:  /assets/img/products/stackstone/desert-black.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+    - Rock face
+
+- title: Niagra
+  image:  /assets/img/products/stackstone/niagra.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+    - Rock face
+
+- title: Portland
+  image:  /assets/img/products/stackstone/portland.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+    - Rock face
+
+- title: French Cremar
+  image: /assets/img/products/stackstone/french-cremar.jpg
+  size:  6" x 24"
+  nature: Limestone
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Broken face
+
+- title: Spice Craft 
+  image: /assets/img/products/stackstone/spice-craft.jpg
+  size:  6" x 24"
+  nature: Slate
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+    - Rock face
+
+- title: Harappa Gold
+  image: /assets/img/products/stackstone/harappa-gold.jpg
+  size:  6" x 24"
+  nature: Slate
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: White Quartzite
+  image: /assets/img/products/stackstone/white-quartzite.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Damascus Green 
+  image: /assets/img/products/stackstone/damascus-green.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Copper Gold 
+  image: /assets/img/products/stackstone/copper-gold.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+
+- title: Titanium
+  image: /assets/img/products/stackstone/titanium.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Rock face
+
+
+- title: Manhattan
+  image: /assets/img/products/stackstone/manhattan.jpg
+  size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face, Flamed and Brushed

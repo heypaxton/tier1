@@ -1,7 +1,7 @@
-- title: Ledgestone Panels 
-  class: ledgestone
+- title: Stackstone
+  class: stackstone
   image: /assets/img/category-ledgestone.jpg
-  link: /products/ledgestone.html
+  link: /products/stackstone.html
 
 - title: Historical Limestone Flooring
   class: historical 

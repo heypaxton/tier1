@@ -8,10 +8,10 @@
   image: /assets/img/category-historical.jpg
   link: /products/historical.html
 
-- title: Slimline Stone Laminates 
-  class: timberline 
+- title: Thinline Laminates 
+  class: slimeline 
   image: /assets/img/category-slimline.jpg
-  link: /products/slimline.html
+  link: /products/thinline.html
 
 - title: Timberline Wood Panels 
   class: timberline 

@@ -1,20 +1,16 @@
 .splash {
-  background: $black url('../img/splash-bg.jpg') no-repeat center center;
   padding: 7rem 0;
   position: relative;
 
   @include mq-m {
-    padding: 14rem 0;
+    padding: 3rem 0;
   }
-
-  &::after {
-    background: rgba($black, 0.8);
-    content: '';
-    display: block;
-    left: 0;
+  
+  .slide {
+    background-size: cover;
     position: absolute;
-    @include size(100% 100%);
-    top: 0;
+    height: 100%;
+    width: 100%;
   }
 
   .text {

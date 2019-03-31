@@ -1,19 +1,25 @@
 - title: Stackstone
   class: stackstone
-  image: /assets/img/category-ledgestone.jpg
+  image: /assets/img/category-stackstone.jpg
   link: /products/stackstone.html
 
-- title: Historical Limestone Flooring
-  class: historical 
-  image: /assets/img/category-historical.jpg
-  link: /products/historical.html
+- title: Old Flooring
+  class: old-flooring 
+  image: /assets/img/category-old-flooring.jpg
+  link: /products/old-floring.html
 
 - title: Thinline Laminates 
   class: slimeline 
-  image: /assets/img/category-slimline.jpg
+  image: /assets/img/category-thinline.jpg
   link: /products/thinline.html
 
-- title: Timberline Wood Panels 
-  class: timberline 
-  image: /assets/img/category-timberline.jpg
-  link: /products/timberline.html
+- title: Woodline 
+  class: woodline 
+  image: /assets/img/category-woodline.jpg
+  link: /products/woodline.html
+
+- title: Metal  
+  class: metal 
+  image: /assets/img/category-metal.jpg
+  link: /products/metal.html
+  

@@ -1,0 +1,16 @@
+{% for p in site.data[page.category] %}
+{% if p.title == page.title %}
+<section class="section-panel">
+  <div class="container">
+    <h1 class="section-heading">{{ p.title }}</h1>
+    <div class="left col s12 m6">
+      <img src="{{ p.image }}" alt="{{ p.title }}">
+    </div>
+
+    <div class="left col s12 m6">
+
+    </div>
+  </div>
+</section>
+{% endif %}
+{% endfor %}

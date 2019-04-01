@@ -222,6 +222,11 @@ h4 {
   font-size: 1.25rem;
   letter-spacing: 0.05rem; }
 
+a {
+  color: #DEB137; }
+  a:hover {
+    color: #161D3B; }
+
 ul.image-list {
   color: #F1F1F1;
   padding: 1rem 2rem; }

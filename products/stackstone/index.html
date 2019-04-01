@@ -5,17 +5,10 @@ title: Stackstone
 <section class="section-panel products">
   <div class="container">
     <h1 class="section-heading">{{ page.title }}</h1>
-
-    <div class="card col s12 m6">
-      <div class="card-content">
-        <h4>Download the Installation Guide</h4>
-        <a href="/assets/downloads/ledgestone-installation.pdf" class="btn">Installation Guide</a>
-      </div>
-    </div>
     <div class="product-list stackstone">
         <div class="product-cards row">
           {% for p in site.data.stackstone %}
-          <div class="product-card col s12 m6 l6">
+          <a href="/products/stackstone/{{p.title | downcase}}.html" class="product-card col s12 m6 l6">
             <div class="inner">
               <div class="image">
                 <img src="{{p.image}}" alt="{{p.title}}"/>
@@ -24,7 +17,7 @@ title: Stackstone
                 <h4>{{p.title}}</h4>
               </div>
             </div>
-          </div>
+          </a>
           {% endfor %}
         </div>
         <!-- end .product-cards .row -->

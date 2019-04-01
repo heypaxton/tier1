@@ -21,6 +21,12 @@ h4 {
   letter-spacing: 0.05rem;
 }
 
+a {
+  color: $gold;
+
+  &:hover { color: $navy; }
+}
+
 
 ul.image-list {
   color: $white;

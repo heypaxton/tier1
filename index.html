@@ -4,9 +4,9 @@ body-class: home
 ---
 <section class="splash">
   <div class="slider">
-    <img src="/assets/img/slider/1.jpg" />
-    <img src="/assets/img/slider/2.jpg" />
-    <img src="/assets/img/slider/3.jpg" /> 
+    <img src="{{site.url}}/assets/img/slider/1.jpg" />
+    <img src="{{site.url}}/assets/img/slider/2.jpg" />
+    <img src="{{site.url}}/assets/img/slider/3.jpg" /> 
   </div> 
   <div class="text">
     <div class="container">
@@ -47,10 +47,10 @@ body-class: home
         <div class="col s12 m6 l6">
           <div class="card c.class">
             <div class="card-image">
-              <img src="{{ c.image | prepend: site.base_url }}" alt="{{ c.title }}">
+              <img src="{{ c.image | prepend: site.url }}" alt="{{ c.title }}">
             </div>
             <div class="card-action">
-              <a class="btn" href="{{c.link}}">{{ c.title }}</a>
+              <a class="btn" href="{{c.link | prepend: site.url }}">{{ c.title }}</a>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@ body-class: home
         <div class="col s12 m6 l6">
           <div class="card c.class">
             <div class="card-image">
-              <img src="{{ c.image | prepend: site.base_url }}" alt="{{ c.title }}">
+              <img src="{{ c.image | prepend: site.url }}" alt="{{ c.title }}">
             </div>
             <div class="card-action">
               <a class="btn" href="{{c.link}}">{{ c.title }}</a>

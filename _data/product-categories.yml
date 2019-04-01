@@ -1,25 +1,53 @@
 - title: Stackstone
   class: stackstone
   image: /assets/img/category-stackstone.jpg
-  link: /products/stackstone.html
+  link: /products/stackstone/index.html
+  custom: false 
 
 - title: Old Flooring
   class: old-flooring 
   image: /assets/img/category-old-flooring.jpg
-  link: /products/old-floring.html
+  link: /products/old-flooring/index.html
+  custom: false 
 
 - title: Thinline Laminates 
   class: slimeline 
   image: /assets/img/category-thinline.jpg
-  link: /products/thinline.html
+  link: /products/thinline/index.html
+  custom: false 
 
 - title: Woodline 
   class: woodline 
   image: /assets/img/category-woodline.jpg
-  link: /products/woodline.html
+  link: /products/woodline/index.html
+  custom: false 
 
 - title: Metal  
   class: metal 
   image: /assets/img/category-metal.jpg
-  link: /products/metal.html
+  link: /products/metal/index.html
+  custom: false 
   
+- title: Cladding 
+  class: cladding 
+  image: /assets/img/category-cladding.jpg
+  link: /products/custom/cladding/index.html
+  custom: true
+
+- title: Flooring 
+  class: flooring 
+  image: /assets/img/category-flooring.jpg
+  link: /products/custom/flooring/index.html
+  custom: true
+
+- title: Hardscape 
+  class: hardscape 
+  image: /assets/img/category-hardscape.jpg
+  link: /products/custom/hardscape/index.html
+  custom: true
+
+- title: Thin Veneer
+  class: Thin Veneer 
+  image: /assets/img/category-thin-veneer.jpg
+  link: /products/custom/thin-veneer/index.html
+  custom: true

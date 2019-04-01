@@ -336,6 +336,9 @@ nav.navbar {
 .historical .product-card .inner {
   min-height: 410px; }
 
+.product-categories .card-action {
+  text-align: center; }
+
 .product-list {
   margin-top: 4rem; }
 

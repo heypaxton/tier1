@@ -8,6 +8,11 @@ body-class: home
     <img src="/assets/img/slider/2.jpg" />
     <img src="/assets/img/slider/3.jpg" /> 
   </div> 
+  <div class="text">
+    <div class="container">
+      <h2>Providing the highest quality natural stone, wood and tile.</h2>
+    </div>
+  </div>
 </section>
 <section class="section-panel about">
   <div class="panel-half">
@@ -38,6 +43,7 @@ body-class: home
     <div class="product-categories">
       <div class="row">
         {% for c in site.data.product-categories %}
+        {% if c.custom == false %}
         <div class="col s12 m6 l6">
           <div class="card c.class">
             <div class="card-image">
@@ -48,10 +54,34 @@ body-class: home
             </div>
           </div>
         </div>
+        {% endif %}
         {% endfor %}
       </div>
     </div>
   </div>
   <!-- end .container -->
 </section>
-
+<section id="custom-products" class="section-panel products">
+  <div class="container">
+    <h1 class="section-heading">Custom Products</h1>
+    <div class="product-categories">
+      <div class="row">
+        {% for c in site.data.product-categories %}
+        {% if c.custom == true %}
+        <div class="col s12 m6 l6">
+          <div class="card c.class">
+            <div class="card-image">
+              <img src="{{ c.image | prepend: site.base_url }}" alt="{{ c.title }}">
+            </div>
+            <div class="card-action">
+              <a class="btn" href="{{c.link}}">{{ c.title }}</a>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <!-- end .container -->
+</section>

@@ -1,111 +1,557 @@
 - title: York
   image: /assets/img/products/flooring/york-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Asheville
   image: /assets/img/products/flooring/ashvile-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Cheltenham
   image: /assets/img/products/flooring/cheltenham.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes 
 
 - title: French Cremar
   image: /assets/img/products/flooring/french-cremar.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'No'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Portland
   image: /assets/img/products/flooring/portland.jpg
   nature: Sandstone
+  class: Class I
+  freeze-thaw-safe: 'No'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Mint
   image: /assets/img/products/flooring/mint-brushed.jpg
   nature: Sandstone
+  class: Class I
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Apricot
   image: /assets/img/products/flooring/apricot-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Terra
   image: /assets/img/products/flooring/terra-natural-cleft.jpg
   nature: Sandstone
+  class: Class I
+  freeze-thaw-safe: 'No'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Cappuccino
   image: /assets/img/products/flooring/cappucino-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Tobacco
   image: /assets/img/products/flooring/tobacco-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Rippon
   image: /assets/img/products/flooring/rippon-natural-cleft.jpg
   nature: Sandstone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Riviera
   image: /assets/img/products/flooring/riviera-limestone-honed-tumbled.jpg
   nature: Limestone
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Azteca
   image: /assets/img/products/flooring/azteca-natural-tumbled.jpg
   nature: Limestone
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Mississippi Grey
   image: /assets/img/products/flooring/mississippi-limestone-natural-tumbled.jpg
   nature: Limestone
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Belgian-Bahama Black
   image: /assets/img/products/flooring/bahama-black-natural-tumbled.jpg
   nature: Limestone
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Moroccan Dust
   image: /assets/img/products/flooring/morroccan-dust.jpg
   nature: Limestone
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Volcanic-Jericho
   image: /assets/img/products/flooring/volcanic-jericho.jpg
   nature: Limestone
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Titanium
   image: /assets/img/products/flooring/titanium-flamed-brushed.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Amazon
   image: /assets/img/products/flooring/Amazon.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Black Galaxy
   image: /assets/img/products/flooring/black-galaxy-waterjet.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Metal Frost
   image: /assets/img/products/flooring/metal-frost-honed-brushed.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Metal Dust
   image: /assets/img/products/flooring/metal-dust-waterjet.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Tropical Dew
   image: /assets/img/products/flooring/tropical-dew-waterjet.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Silver Marine
   image: /assets/img/products/flooring/silver-marine-honed-brushed.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Carbon Gold
   image: /assets/img/products/flooring/carbon-gold-flamed-brushed.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
-- title: Titanium
+- title: Titanium 2
   image: /assets/img/products/flooring/titanium-water-jet-finish.jpg
   nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Copper Silk
   image: /assets/img/products/flooring/copper-silk-water-jet-finish.jpg
   nature: Granite
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes
 
 - title: Royal Black
   image: /assets/img/products/flooring/royal-black-leather.jpg
   nature: Granite
+  freeze-thaw-safe: 'Yes'
+  finishes:
+    - Sawn
+    - Honed
+    - Raked
+    - Flamed
+    - Brushed
+    - Polished
+    - Sandblasted
+    - Natural Cleft
+    - Bush Hammered
+    - Chiseled
+    - Waterjet
+    - Chiseled
+    - Combined Finishes

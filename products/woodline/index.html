@@ -8,7 +8,7 @@ title: Woodline
     <div class="product-list woodline">
         <div class="product-cards row">
           {% for p in site.data.woodline%}
-          <a href="/products/woodline/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l6">
+          <a href="{{site.url}}/products/woodline/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l6">
             <div class="inner">
               <div class="image">
                 <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>

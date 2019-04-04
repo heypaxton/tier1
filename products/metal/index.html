@@ -8,7 +8,7 @@ title: Metal
     <div class="product-list metal">
         <div class="product-cards row">
           {% for p in site.data.metal%}
-          <a href="/products/metal/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l6">
+          <a href="{{site.url}}/products/metal/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l6">
             <div class="inner">
               <div class="image">
                 <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>

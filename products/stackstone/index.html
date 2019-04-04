@@ -8,7 +8,7 @@ title: Stackstone
     <div class="product-list stackstone">
         <div class="product-cards row">
           {% for p in site.data.stackstone %}
-          <a href="/products/stackstone/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+          <a href="{{site.url}}/products/stackstone/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
             <div class="inner">
               <div class="image">
                 <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>

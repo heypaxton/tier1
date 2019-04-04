@@ -8,7 +8,7 @@ title: Cladding
     <div class="product-list cladding">
         <div class="product-cards row">
           {% for p in site.data.cladding%}
-          <a href="/products/custom/cladding/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+          <a href="{{site.url}}/products/custom/cladding/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
             <div class="inner">
               <div class="image">
                 <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>

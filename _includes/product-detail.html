@@ -1,14 +1,60 @@
 {% for p in site.data[page.category] %}
 {% if p.title == page.title %}
-<section class="section-panel">
+<section class="section-panel product-detail">
   <div class="container">
     <h1 class="section-heading">{{ p.title }}</h1>
-    <div class="left col s12 m6">
-      <img src="{{site.url}}/{{ p.image }}" alt="{{ p.title }}">
-    </div>
+    <div class="row">
 
-    <div class="left col s12 m6">
+      <div class="product-image col s12 m6">
+        <img src="{{site.url}}/{{ p.image }}" alt="{{ p.title }}">
+      </div>
+      <div class="right col s12 m6">
+        <div class="product-detail card">
+          <div class="card-content">
+            <h4>Product Details</h4>
+            <ul>
+              {% if p.product_size %}
+              <li>Size: {{p.product_size}}</li>
+              {% endif %}
+              
+              {% if p.nature %}
+              <li>Nature: {{p.nature}}</li>
+              {% endif %}
 
+              {% if p.formats %}
+              <li>Formats: 
+                <ul>
+                {% for f in p.formats %}
+                  <li>{{f}}</li>
+                {% endfor %}
+                </ul>
+              </li>
+              {% endif %}
+
+              {% if p.freeze-thaw-safe %}
+                <li>Freeze/Thaw Safe: {{p.freeze-thaw-safe}}</li>
+              {% endif %}
+
+              {% if p.class%}
+                <li>Class: {{p.class}}</li>
+              {% endif %}
+              
+              {% if p.finishes %}
+              <li>Finishes: 
+                <ul>
+                {% for f in p.finishes %}
+                  <li>{{f}}</li>
+                {% endfor %}
+                </ul>
+              </li>
+              {% endif %}
+
+
+            </ul>
+            
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>

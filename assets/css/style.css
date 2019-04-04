@@ -350,6 +350,14 @@ nav.navbar {
 .product-categories .card-action {
   text-align: center; }
 
+.product-detail .product-image img {
+  width: 100%; }
+.product-detail ul li {
+  list-style-type: disc;
+  margin-left: 20px; }
+.product-detail ul ul li {
+  list-style-type: circle; }
+
 .product-list {
   margin-top: 4rem; }
 

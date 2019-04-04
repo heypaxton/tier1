@@ -292,6 +292,12 @@ nav.navbar {
   left: 0;
   width: 100%;
   z-index: 100; }
+  nav.navbar a {
+    color: #F1F1F1;
+    transition: 0.2s color; }
+    nav.navbar a:hover {
+      color: #DEB137;
+      transition: 0.2s color; }
 
 .product-card {
   margin-bottom: 2rem; }

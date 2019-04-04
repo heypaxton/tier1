@@ -5,4 +5,13 @@ nav.navbar {
   left: 0;
   width: 100%;
   z-index: 100;
+
+  a {
+    color: $white;
+    transition: 0.2s color;
+    &:hover {
+      color: $gold;
+      transition: 0.2s color;
+    }
+  }
 }

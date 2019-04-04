@@ -10,7 +10,7 @@ title: Tier 1 Stone and Tile
 description: > # this means to ignore newlines until "baseurl:"
   Tier 1 Stone and Tile
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "://heypaxton.github.io/tier1" # the base hostname & protocol for your site
+url: "https://heypaxton.github.io/tier1" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

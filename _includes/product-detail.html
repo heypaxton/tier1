@@ -35,10 +35,24 @@
                 <li>Freeze/Thaw Safe: {{p.freeze-thaw-safe}}</li>
               {% endif %}
 
-              {% if p.class%}
+              {% if p.class %}
                 <li>Class: {{p.class}}</li>
               {% endif %}
+
+              {% if p.installation %}
+                <li>Installation: {{p.installation}}</li>
+              {% endif %}
               
+              {% if p.shapes %}
+              <li>Available Shapes: 
+                <ul>
+                {% for f in p.shapes %}
+                  <li>{{f}}</li>
+                {% endfor %}
+                </ul>
+              </li>
+              {% endif %}
+
               {% if p.finishes %}
               <li>Finishes: 
                 <ul>

@@ -1,27 +1,99 @@
 - title: Amazon 
   image: /assets/img/products/thin-veneer/amazon-microledge.jpg
+  nature: Quartzite
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Apricot 
   image: /assets/img/products/thin-veneer/apricot-sandstone-fieldstone.jpg
+  nature: Sandstone 
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Asheville 
   image: /assets/img/products/thin-veneer/ashville-sandstone.jpg
+  nature: Sandstone 
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Bahama-Belgian Black 
   image: /assets/img/products/thin-veneer/bahama-black-limestone.jpg
+  class: Class III
+  nature: Limestone
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Portland 
   image: /assets/img/products/thin-veneer/portland-multi-sandstone.jpg
+  class: Class I
+  nature: Sandstone 
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Riviera
   image: /assets/img/products/thin-veneer/riviera-limestone.jpg
+  class: Class III
+  nature: Limestone
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Tropical Dew 
   image: /assets/img/products/thin-veneer/tropical-due-quartzite-castlestone.jpg
+  class: Class III
+  nature: Limestone
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Cheltenham
   image: /assets/img/products/thin-veneer/cheltenham.jpg
+  nature: Sandstone 
+  class: Class II
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 
 - title: Alpine Grey
   image: /assets/img/products/thin-veneer/alpine-grey.jpg
+  nature: Quartzite 
+  class: Class III
+  freeze-thaw-safe: 'Yes'
+  shapes:
+    - Castlestone
+    - Ledgestone
+    - Micro-ledge
+    - Fieldstone
 

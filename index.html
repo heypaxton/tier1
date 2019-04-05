@@ -52,7 +52,7 @@ body-class: home
               <img src="{{ c.image | prepend: site.url }}" alt="{{ c.title }}">
             </div>
             <div class="card-action">
-              <a class="btn" href="{{c.link}}">{{ c.title }}</a>
+              <a class="btn" href="{{c.link | prepend: site.url}}">{{ c.title }}</a>
             </div>
           </div>
         </div>

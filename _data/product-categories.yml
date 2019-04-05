@@ -4,12 +4,6 @@
   link: /products/stackstone/index.html
   custom: false 
 
-- title: Old Flooring
-  class: old-flooring 
-  image: /assets/img/category-old-flooring.jpg
-  link: /products/old-flooring/index.html
-  custom: false 
-
 - title: Thinline Laminates 
   class: slimeline 
   image: /assets/img/category-thinline.jpg
@@ -26,6 +20,12 @@
   class: metal 
   image: /assets/img/category-metal.jpg
   link: /products/metal/index.html
+  custom: false 
+  
+- title: Old Flooring
+  class: old-flooring 
+  image: /assets/img/category-old-flooring.jpg
+  link: /products/old-flooring/index.html
   custom: false 
   
 - title: Cladding 

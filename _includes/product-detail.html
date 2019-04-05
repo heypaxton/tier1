@@ -21,6 +21,16 @@
               <li>Nature: {{p.nature}}</li>
               {% endif %}
 
+              {% if p.composition %}
+              <li>Composition: 
+                <ul>
+                {% for f in p.composition %}
+                  <li>{{f}}</li>
+                {% endfor %}
+                </ul>
+              </li>
+              {% endif %}
+
               {% if p.formats %}
               <li>Formats: 
                 <ul>

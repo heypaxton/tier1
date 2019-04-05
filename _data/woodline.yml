@@ -1,36 +1,109 @@
 - title: Amber
   image: /assets/img/products/woodline/amber.jpg
+  size: 6" x 25.6"
+  installation: Peel & Stick
+  composition: 
+    - Natural Teak
+    - Brushed
+    - Varnished
 
 - title: Ashe Brown
   image: /assets/img/products/woodline/ashe-brown.jpg
+  size: 6" x 25.6"
+  installation: Peel & Stick
+  composition:
+    - Natural Teak
+    - Brushed
+    - Smoked
+    - Stained
+    - Sealed
 
 - title: Beetle Antique
   image: /assets/img/products/woodline/beetle-antique.jpg
+  size: 6" x 25.6"
+  installation: Peel & Stick
+  composition: 
+    - Natural Mango
+    - Smoked
+    - Oiled Sealed
 
 - title: Black Forest
   image: /assets/img/products/woodline/black-forest.jpg
+  size: 6" x 25.6"
+  installation: Peel & Stick
+  composition: 
+    - Natural Eucalyptus
+    - Brushed
+    - Sealed
+    - Smoked
 
 - title: Buckingham Dew
   image: /assets/img/products/woodline/buckingham-dew.jpg
+  size: 6" x 25.6"
+  installation: Peel & Stick
+  composition: 
+    - Natural Teak
+    - Brushed
+    - Varnishe
 
 - title: Emerald White
   image: /assets/img/products/woodline/emerald-white.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Eucalyptus
+    - Brushed
+    - Sealed
 
 - title: Lavender Antique
   image: /assets/img/products/woodline/lavender-antique.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Teak
+    - Brushed
+    - Smoked
+    - Stained
+    - Sealed
 
 - title: Roman Timber
   image: /assets/img/products/woodline/roman-timber.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Teak
+    - Oiled
+    - Varnished
 
 - title: Sahara Dust
   image: /assets/img/products/woodline/sahara-dust.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Teak
+    - Brushed
+    - Smoked
+    - Sealed
 
 - title: Splendour
   image: /assets/img/products/woodline/splendour.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Teak
+    - Brushed
+    - Varnished
+    - Stained
 
 - title: Texan Gold
   image: /assets/img/products/woodline/texan-gold.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Mango
+    - Brushed
+    - Sealed
 
 - title: Tobacco
   image: /assets/img/products/woodline/tobacco.jpg
+  installation: Peel & Stick
+  composition:
+    - Natural Eucalyptus
+    - Brushed
+    - Smoked
+    - Stained Oiled
 

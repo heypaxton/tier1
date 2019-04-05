@@ -3,7 +3,8 @@
 
   {% include head.html %}
 
-  <body>
+  {% assign body-class = page.body-class ? page.body-class : '' %}
+  <body class="{{body-class}}">
     {% include header.html %}
 
     {{ content }}

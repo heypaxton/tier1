@@ -238,6 +238,9 @@ video {
   background: black;
   min-height: 400px; }
 
+.about-page .about-banner {
+  width: 100%; }
+
 .btn {
   background: #DEB137;
   border: 0.0625rem solid #ca9d23;

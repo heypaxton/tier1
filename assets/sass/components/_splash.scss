@@ -1,27 +1,37 @@
 .splash {
-  padding: 7rem 0;
+  padding: 3rem 0;
+  overflow: hidden;
   position: relative;
 
   @include mq-m {
-    padding: 3rem 0;
+    padding: 4rem 0;
   }
   
-  .slide {
-    background-size: cover;
-    position: absolute;
-    height: 100%;
-    width: 100%;
+  .slick-slider {
+    max-height: 150px;
+    @include mq-m {
+      max-height: none;
+    }
   }
-
+  
   .text {
-    text-align: center;
+    text-align: left;
     position: relative;
     z-index: 1;
+
+    @include mq-m {
+      text-align: center; 
+    }
   }
 
-  .text h1 {
-    color: $white;
+  .text h2 {
+    color: $gold;
+    font-size: 32px;
     line-height: 1.2;
+
+    @include mq-m {
+      font-size: 50px;
+    }
   }
 
   .text p {

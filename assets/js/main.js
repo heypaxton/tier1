@@ -31,5 +31,4 @@
     });
   };
   _tOne.slider();
-
 })(jQuery)

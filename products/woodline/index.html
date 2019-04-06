@@ -5,6 +5,12 @@ title: Woodline
 <section class="section-panel products">
   <div class="container">
     <h1 class="section-heading">{{ page.title }}</h1>
+    <div class="card col s12 m6">
+      <div class="card-content">
+        <h4>Download the Catalog</h4>
+        <a href="{{site.url}}/assets/downloads/woodline_catalog.pdf" class="btn">View Catalog</a>
+      </div>
+    </div>
     <div class="product-list woodline">
         <div class="product-cards row">
           {% for p in site.data.woodline%}

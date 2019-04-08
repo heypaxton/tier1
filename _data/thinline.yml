@@ -1,6 +1,6 @@
 - title: Amazon
   image: /assets/img/products/thinline/amazon.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite
   formats:
     - Dry back
@@ -10,7 +10,7 @@
 
 - title: Damascus Green
   image: /assets/img/products/thinline/damascus-green.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite
   formats: 
     - Dry back
@@ -20,7 +20,7 @@
 
 - title: Platinum Black
   image: /assets/img/products/thinline/platinum-black.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Slate
   formats:
     - Dry back
@@ -30,7 +30,7 @@
 
 - title: Copper Gold
   image: /assets/img/products/thinline/copper-gold.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite
   formats: 
     - Dry back
@@ -40,7 +40,7 @@
 
 - title: Desert Black
   image: /assets/img/products/thinline/desert-black.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   formats:
     - Dry back
     - Ultra slim
@@ -49,7 +49,7 @@
 
 - title: Metal Frost
   image: /assets/img/products/thinline/metal-frost.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite 
   formats: 
     - Dry back
@@ -59,7 +59,7 @@
 
 - title: Fire Breeze
   image: /assets/img/products/thinline/fire-breeze.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Sandstone
   formats:
     - Dry back
@@ -69,7 +69,7 @@
 
 - title: Portland
   image: /assets/img/products/thinline/portland.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Sandstone
   formats:
     - Dry back
@@ -79,7 +79,7 @@
 
 - title: Macedonian
   image: /assets/img/products/thinline/macedonian.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Slate
   formats: 
     - Dry back
@@ -89,7 +89,7 @@
 
 - title: Harappa Gold
   image: /assets/img/products/thinline/harappa-gold.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Slate
   formats:
     - Dry back
@@ -99,7 +99,7 @@
 
 - title: Spice Craft
   image: /assets/img/products/thinline/spice-craft.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Slate
   formats: 
     - Dry back
@@ -109,7 +109,7 @@
 
 - title: Terra
   image: /assets/img/products/thinline/terra.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Sandstone
   formats:
     - Dry back
@@ -117,7 +117,7 @@
 
 - title: Niagra
   image: /assets/img/products/thinline/niagra.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite
   formats:
     - Dry back
@@ -127,7 +127,7 @@
 
 - title: Mystic
   image: /assets/img/products/thinline/mystic.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Quartzite
   formats:
     - Dry back
@@ -137,7 +137,7 @@
 
 - title: French Press
   image: /assets/img/products/thinline/french-press.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Limestone
   formats:
     - Dry back
@@ -146,7 +146,7 @@
 
 - title: Rainblow Splash
   image: /assets/img/products/thinline/rainbow-splash.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Sandstone
   formats:
     - Dry back
@@ -155,7 +155,7 @@
 
 - title: Timber
   image: /assets/img/products/thinline/timber.jpg
-  size: 12” x 24” – 24” x 48” - 48” x 96”
+  product_size: 12” x 24” – 24” x 48” - 48” x 96”
   nature: Sandstone
   formats:
     - Dry back

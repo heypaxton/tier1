@@ -1,6 +1,6 @@
 - title: Amber
   image: /assets/img/products/woodline/amber.jpg
-  size: 6" x 25.6"
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition: 
     - Natural Teak
@@ -9,7 +9,7 @@
 
 - title: Ashe Brown
   image: /assets/img/products/woodline/ashe-brown.jpg
-  size: 6" x 25.6"
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Teak
@@ -20,7 +20,7 @@
 
 - title: Beetle Antique
   image: /assets/img/products/woodline/beetle-antique.jpg
-  size: 6" x 25.6"
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition: 
     - Natural Mango
@@ -29,7 +29,7 @@
 
 - title: Black Forest
   image: /assets/img/products/woodline/black-forest.jpg
-  size: 6" x 25.6"
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition: 
     - Natural Eucalyptus
@@ -39,7 +39,7 @@
 
 - title: Buckingham Dew
   image: /assets/img/products/woodline/buckingham-dew.jpg
-  size: 6" x 25.6"
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition: 
     - Natural Teak
@@ -48,6 +48,7 @@
 
 - title: Emerald White
   image: /assets/img/products/woodline/emerald-white.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Eucalyptus
@@ -56,6 +57,7 @@
 
 - title: Lavender Antique
   image: /assets/img/products/woodline/lavender-antique.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Teak
@@ -66,6 +68,7 @@
 
 - title: Roman Timber
   image: /assets/img/products/woodline/roman-timber.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Teak
@@ -75,6 +78,7 @@
 - title: Sahara Dust
   image: /assets/img/products/woodline/sahara-dust.jpg
   installation: Peel & Stick
+  product_size: 6" x 25.6"
   composition:
     - Natural Teak
     - Brushed
@@ -83,6 +87,7 @@
 
 - title: Splendour
   image: /assets/img/products/woodline/splendour.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Teak
@@ -92,6 +97,7 @@
 
 - title: Texan Gold
   image: /assets/img/products/woodline/texan-gold.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Mango
@@ -100,6 +106,7 @@
 
 - title: Tobacco
   image: /assets/img/products/woodline/tobacco.jpg
+  product_size: 6" x 25.6"
   installation: Peel & Stick
   composition:
     - Natural Eucalyptus

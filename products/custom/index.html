@@ -1,15 +1,24 @@
 ---
 layout: default
 title: Custom Products 
+body-class: custom-products
 ---
 <section class="section-panel products">
   <div class="container">
     <h1 class="section-heading">{{ page.title }}</h1>
-    <p>To order, we require a 50% deposit with the balance due upon receipt of goods, or a 30% deposit with the balance required for release of goods.
-      Lead times for receipt of initial quantity of material vary from 12-20 weeks, based on complexity, project location, and availability of raw material.
-    </p>
     <div class="product-categories">
       <div class="row">
+        <div class="col s12 m6 l6">
+          <div class="card information-card blue-grey darken-4">
+            <div class="card-content">
+              <h3>Ordering Information</h3>
+              <p>
+                To order, we require a 50% deposit with the balance due upon receipt of goods, or a 30% deposit with the balance required for release of goods.
+                Lead times for receipt of initial quantity of material vary from 12-20 weeks, based on complexity, project location, and availability of raw material.
+              </p>
+            </div>
+          </div>
+        </div>
         {% for c in site.data.product-categories %}
         {% if c.custom == true %}
         <div class="col s12 m6 l6">

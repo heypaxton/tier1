@@ -51,3 +51,9 @@
   image: /assets/img/category-thin-veneer.jpg
   link: /products/custom/thin-veneer/index.html
   custom: true
+
+- title: Stackstone
+  class: stackstone
+  image: /assets/img/category-stackstone.jpg
+  link: /products/stackstone/index.html
+  custom: true 

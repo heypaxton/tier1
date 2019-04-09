@@ -1,3 +1,19 @@
 .card.blue-grey {
   min-height: 176px;
 }
+
+.card.information-card {
+  color: $white;
+
+  h3 { font-size: rem(36); }
+}
+
+.custom-products .products .card {
+  @include mq-m {
+    height: 445px;
+  }
+
+  @include mq-l {
+    height: 512px;
+  }
+}

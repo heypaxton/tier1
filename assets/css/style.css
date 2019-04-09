@@ -454,4 +454,16 @@ nav.navbar {
 .card.blue-grey {
   min-height: 176px; }
 
+.card.information-card {
+  color: #F1F1F1; }
+  .card.information-card h3 {
+    font-size: 2.25rem; }
+
+@media (min-width: 768px) {
+  .custom-products .products .card {
+    height: 445px; } }
+@media (min-width: 992px) {
+  .custom-products .products .card {
+    height: 512px; } }
+
 /*# sourceMappingURL=style.css.map */

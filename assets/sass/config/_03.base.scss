@@ -41,3 +41,50 @@ video {
   background: black;
   width: 100%;
 }
+
+// Forms
+form {
+  input[type=text],
+  input[type=email],
+  textarea {
+    background: $stark;
+    border: rem(1) solid $navy;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+
+    &:focus {
+      border: rem(1) solid $gold;
+    }
+  }
+
+  .input-field label {
+    top: -0.2rem;
+  }
+
+  .select-wrapper+label {
+    top: -1.75rem;
+  }
+
+  .select-wrapper {
+    border: rem(1) solid $navy;
+    border-radius: 0.5rem;
+
+    input.select-dropdown { 
+      border-bottom: none; 
+      padding-left: 1rem;
+      margin: 5px 0 10px 0;
+    }
+
+    .caret {
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+  }
+
+  textarea {
+    height: 10rem;
+    padding: 1rem;
+  }
+
+}

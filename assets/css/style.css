@@ -238,6 +238,36 @@ video {
   background: black;
   width: 100%; }
 
+form input[type=text],
+form input[type=email],
+form textarea {
+  background: #FFFFFF;
+  border: 0.0625rem solid #161D3B;
+  border-radius: 0.5rem;
+  padding: 0.5rem; }
+  form input[type=text]:focus,
+  form input[type=email]:focus,
+  form textarea:focus {
+    border: 0.0625rem solid #DEB137; }
+form .input-field label {
+  top: -0.2rem; }
+form .select-wrapper + label {
+  top: -1.75rem; }
+form .select-wrapper {
+  border: 0.0625rem solid #161D3B;
+  border-radius: 0.5rem; }
+  form .select-wrapper input.select-dropdown {
+    border-bottom: none;
+    padding-left: 1rem;
+    margin: 5px 0 10px 0; }
+  form .select-wrapper .caret {
+    position: absolute;
+    right: 1rem;
+    top: 1rem; }
+form textarea {
+  height: 10rem;
+  padding: 1rem; }
+
 .about-page .about-banner {
   width: 100%; }
 

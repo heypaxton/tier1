@@ -10,7 +10,7 @@ title: Contact Us
     <form action="{{site.url}}/contact/success" name="contact" method="POST" netlify>
         <div class="row">
           <div class="input-field col s6">
-            <input placeholder="Name" id="full_name" name="customer_name"type="text" class="validate">
+            <input placeholder="Name" id="full_name" name="customer_name" type="text" class="validate">
             <label for="full_name">Name</label>
           </div>
           <div class="input-field col s6">

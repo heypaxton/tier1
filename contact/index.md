@@ -7,7 +7,7 @@ title: Contact Us
     <h1 class="section-heading">{{ page.title }}</h1>
     <h6>Let us know about products you are interested in.</h6>
     <br>
-    <form action="{{site.url}}/contact/sucess" name="contact" method="POST" netlify>
+    <form action="{{site.url}}/contact/success" name="contact" method="POST" netlify>
         <div class="row">
           <div class="input-field col s6">
             <input placeholder="Name" id="full_name" type="text" class="validate">

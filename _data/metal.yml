@@ -2,34 +2,41 @@
   image: /assets/img/products/metal/copper-inferno.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: true
 
 - title: Golden Fantasy
   image: /assets/img/products/metal/golden-fantasy.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: true
 
 - title: Silver Champagne
   image: /assets/img/products/metal/sliver-champagne.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: true
 
 - title: African Safari
   image: /assets/img/products/metal/african-safari.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: false
 
 - title: London Mix
   image: /assets/img/products/metal/london-mix.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: false
 
 - title: Oklahoma Mist
   image: /assets/img/products/metal/oklahoma-mist.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: false
 
 - title: Indiana Honey
   image: /assets/img/products/metal/indiana-honey.jpg
   product_size: 6" x 24"
   installation: Peel and Stick
+  stocked: false
 

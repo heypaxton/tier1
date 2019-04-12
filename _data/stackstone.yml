@@ -170,3 +170,13 @@
     - corners
   finishes: 
     - Split face
+
+- title: Desert Black Rockface 
+  image: /assets/img/products/stackstone/desert-black-rockface.jpg
+  product_size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Rock face

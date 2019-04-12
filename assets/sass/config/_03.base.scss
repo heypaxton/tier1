@@ -59,20 +59,24 @@ form {
     }
   }
 
+  .input-field label.active,
   .input-field label {
+    color: $black;
+    font-size: 16px;
     top: -0.2rem;
   }
 
   .select-wrapper+label {
-    top: -1.75rem;
+    top: -2.25rem;
   }
 
   .select-wrapper {
+    background-color: $stark;
     border: rem(1) solid $navy;
     border-radius: 0.5rem;
 
     input.select-dropdown { 
-      border: none; 
+      border: none !important; 
       padding-left: 1rem;
       margin: 5px 0 10px 0;
 

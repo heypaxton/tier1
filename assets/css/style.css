@@ -251,15 +251,19 @@ form textarea {
     border: 0.0625rem solid #DEB137 !important;
     border-bottom: 0.0625rem solid #DEB137 !important;
     box-shadow: none !important; }
+form .input-field label.active,
 form .input-field label {
+  color: #444444;
+  font-size: 16px;
   top: -0.2rem; }
 form .select-wrapper + label {
-  top: -1.75rem; }
+  top: -2.25rem; }
 form .select-wrapper {
+  background-color: #FFFFFF;
   border: 0.0625rem solid #161D3B;
   border-radius: 0.5rem; }
   form .select-wrapper input.select-dropdown {
-    border: none;
+    border: none !important;
     padding-left: 1rem;
     margin: 5px 0 10px 0; }
     form .select-wrapper input.select-dropdown:focus {

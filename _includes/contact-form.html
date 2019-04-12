@@ -2,16 +2,21 @@
 <br>
 <form action="{{site.url}}/contact/success" name="contact" method="POST" netlify>
     <div class="row">
-      <div class="input-field col s12 m6">
-        <input placeholder="Name" id="full_name" name="customer_name" type="text" class="validate">
+      <div class="input-field col s12">
+        <input placeholder="Name" id="full_name" name="customer_name" type="text" class="validate" required>
         <label for="full_name">Name</label>
       </div>
+    </div>
+    <div class="row">
       <div class="input-field col s12 m6">
-        <input placeholder="email@address.com" id="email" name="email" type="email" class="validate">
+        <input placeholder="email@address.com" id="email" name="email" type="email" class="validate" required>
         <label for="email">Email</label>
       </div>
+      <div class="input-field col s12 m6">
+        <input placeholder="(555) 555-1234" id="phone" name="phone" type="text" required>
+        <label for="phone">Phone</label>
+      </div>
     </div>
-
     <div class="row">
       <div class="input-field col s12 m6">
         <input id="testing" name="testing" type="checkbox" value="testing">

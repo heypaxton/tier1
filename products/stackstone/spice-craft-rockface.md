@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spice Craft
+title: Spice Craft Rockface
 category: stackstone
 ---
 {% include product-detail.html %}

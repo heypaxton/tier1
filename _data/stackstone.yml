@@ -38,7 +38,7 @@
   finishes: 
     - Split face
 
-- title: Desert Black
+- title: Desert Black Splitface
   image:  /assets/img/products/stackstone/desert-black.jpg
   product_size:  6" x 24"
   nature: Quartzite
@@ -81,15 +81,14 @@
   finishes: 
     - Broken face
 
-- title: Spice Craft 
-  image: /assets/img/products/stackstone/spice-craft.jpg
+- title: Spice Craft Rockface
+  image: /assets/img/products/stackstone/spice-craft-rockface.jpg
   product_size:  6" x 24"
   nature: Slate
   formats: 
     - flats
     - corners
   finishes: 
-    - Split face
     - Rock face
 
 - title: Harappa Gold
@@ -142,6 +141,15 @@
   finishes: 
     - Rock face
 
+- title: Spice Craft Splitface 
+  image: /assets/img/products/stackstone/spice-craft-splitface.jpg
+  product_size:  6" x 24"
+  nature: Slate
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
 
 - title: Manhattan
   image: /assets/img/products/stackstone/manhattan.jpg
@@ -152,3 +160,13 @@
     - corners
   finishes: 
     - Split face, Flamed and Brushed
+
+- title: Niagra Splitface 
+  image: /assets/img/products/stackstone/niagra-splitface.jpg
+  product_size:  6" x 24"
+  nature: Quartzite
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Desert Black
+title: Spice Craft Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

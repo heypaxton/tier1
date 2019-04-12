@@ -11,22 +11,79 @@ title: Flooring
       craftsmanship, this line of stone floors brings beauty and longevity to any project.</p>
     <div class="product-list flooring">
         <div class="product-cards row">
-          {% for p in site.data.flooring%}
-          <a href="{{site.url}}/products/custom/flooring/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
-            <div class="inner">
-              <div class="image">
-                <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+            <h3>Sandstone</h3> 
+            {% for p in site.data.flooring %}
+            {% if p.nature == 'Sandstone' %}
+            <a href="{{site.url}}/products/custom/flooring/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+              <div class="inner">
+                <div class="image">
+                  <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+                </div>
+                <div class="description">
+                  <h4>{{p.title}}</h4>
+                </div>
               </div>
-              <div class="description">
-                <h4>{{p.title}}</h4>
+            </a>
+            {% endif %}
+            {% endfor %}
+          </div>
+  
+          <h3>Limestone</h3>
+          <div class="product-cards row">
+            {% for p in site.data.flooring %}
+            {% if p.nature == 'Limestone' %}
+            <a href="{{site.url}}/products/custom/flooring/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+              <div class="inner">
+                <div class="image">
+                  <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+                </div>
+                <div class="description">
+                  <h4>{{p.title}}</h4>
+                </div>
               </div>
-            </div>
-          </a>
-          {% endfor %}
+            </a>
+            {% endif %}
+            {% endfor %}
+          </div>
+  
+          <h3>Quartzite</h3>
+          <div class="product-cards row">
+            {% for p in site.data.flooring %}
+            {% if p.nature == 'Quartzite' %}
+            <a href="{{site.url}}/products/custom/flooring/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+              <div class="inner">
+                <div class="image">
+                  <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+                </div>
+                <div class="description">
+                  <h4>{{p.title}}</h4>
+                </div>
+              </div>
+            </a>
+            {% endif %}
+            {% endfor %}
+          </div>
+  
+          <h3>Granite</h3>
+          <div class="product-cards row">
+            {% for p in site.data.flooring %}
+            {% if p.nature == 'Granite' %}
+            <a href="{{site.url}}/products/custom/flooring/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+              <div class="inner">
+                <div class="image">
+                  <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+                </div>
+                <div class="description">
+                  <h4>{{p.title}}</h4>
+                </div>
+              </div>
+            </a>
+            {% endif %}
+            {% endfor %}
+          </div>
+
         </div>
-        <!-- end .product-cards .row -->
       </div>
-      <!-- end .product-list .stackstone -->
     </div>
   </div>
 </section>

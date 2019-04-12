@@ -8,8 +8,11 @@ title: Hardscape
     <p>To order, we require a 50% deposit with the balance due upon receipt of goods, or a 30% deposit with the balance required for release of goods. Lead times for receipt of initial quantity of material vary from 12-20 weeks, based on complexity, project location, and availability of raw material.</p>
     <p>We offer custom Hardscape orders in a wide range of dimensions and finishes, for any application including residential or commercial, pavers, cobbles, steps, pools, and much more.</p>
     <div class="product-list hardscape">
-        <div class="product-cards row">
-          {% for p in site.data.hardscape%}
+      <div class="product-cards row">
+
+          <h3>Sandstone</h3> 
+          {% for p in site.data.hardscape %}
+          {% if p.nature == 'Sandstone' %}
           <a href="{{site.url}}/products/custom/hardscape/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
             <div class="inner">
               <div class="image">
@@ -20,11 +23,65 @@ title: Hardscape
               </div>
             </div>
           </a>
+          {% endif %}
           {% endfor %}
         </div>
-        <!-- end .product-cards .row -->
+
+        <h3>Limestone</h3>
+        <div class="product-cards row">
+          {% for p in site.data.hardscape %}
+          {% if p.nature == 'Limestone' %}
+          <a href="{{site.url}}/products/custom/hardscape/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+            <div class="inner">
+              <div class="image">
+                <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+              </div>
+              <div class="description">
+                <h4>{{p.title}}</h4>
+              </div>
+            </div>
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+        <h3>Quartzite</h3>
+        <div class="product-cards row">
+          {% for p in site.data.hardscape %}
+          {% if p.nature == 'Quartzite' %}
+          <a href="{{site.url}}/products/custom/hardscape/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+            <div class="inner">
+              <div class="image">
+                <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+              </div>
+              <div class="description">
+                <h4>{{p.title}}</h4>
+              </div>
+            </div>
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
+
+        <h3>Granite</h3>
+        <div class="product-cards row">
+          {% for p in site.data.hardscape %}
+          {% if p.nature == 'Granite' %}
+          <a href="{{site.url}}/products/custom/hardscape/{{p.title | downcase | replace: ' ', '-'}}.html" class="product-card col s12 m6 l4">
+            <div class="inner">
+              <div class="image">
+                <img src="{{p.image | prepend: site.url }}" alt="{{p.title}}"/>
+              </div>
+              <div class="description">
+                <h4>{{p.title}}</h4>
+              </div>
+            </div>
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
+          
       </div>
-      <!-- end .product-list .stackstone -->
     </div>
   </div>
 </section>

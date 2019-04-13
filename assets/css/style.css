@@ -265,7 +265,8 @@ form .select-wrapper {
   form .select-wrapper input.select-dropdown {
     border: none !important;
     padding-left: 1rem;
-    margin: 5px 0 10px 0; }
+    margin: 5px 0 10px 0;
+    z-index: 1; }
     form .select-wrapper input.select-dropdown:focus {
       border: none; }
   form .select-wrapper .caret {

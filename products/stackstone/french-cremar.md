@@ -1,6 +1,6 @@
 ---
 layout: default
-title: French Cremar
+title: French Cremar Brokenface
 category: stackstone
 ---
 {% include product-detail.html %}

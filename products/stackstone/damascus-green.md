@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Damascus Green
+title: Damascus Green Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

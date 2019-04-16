@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manhattan
+title: Mocha Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

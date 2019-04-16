@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Titanium
+title: Niagra Splitface 
 category: stackstone
 ---
 {% include product-detail.html %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: White Quartzite
+title: Niagra Rockface
 category: stackstone
 ---
 {% include product-detail.html %}

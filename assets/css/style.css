@@ -356,7 +356,7 @@ nav.navbar {
     padding: 1rem;
     text-align: center; }
     .product-card .description h4 {
-      font-size: 1.125rem; }
+      font-size: 1rem; }
   .product-card .details {
     background: rgba(255, 255, 255, 0.9);
     display: none;

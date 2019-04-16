@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copper Gold
+title: White Quartzite Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

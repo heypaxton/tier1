@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portland
+title: Copper Gold Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

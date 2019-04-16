@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mocha
+title: Portland Brokenface
 category: stackstone
 ---
 {% include product-detail.html %}

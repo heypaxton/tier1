@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harappa Gold
+title: Titanium Rockface
 category: stackstone
 ---
 {% include product-detail.html %}

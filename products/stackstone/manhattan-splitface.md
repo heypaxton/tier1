@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amazon
+title: Manhattan Splitface
 category: stackstone
 ---
 {% include product-detail.html %}

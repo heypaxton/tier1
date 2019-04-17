@@ -284,7 +284,8 @@ form textarea {
   background: #DEB137;
   border: 0.0625rem solid #ca9d23;
   color: #444444;
-  font-family: "Playfair Display", "Georgia", "Times", serif; }
+  font-family: "Playfair Display", "Georgia", "Times", serif;
+  font-size: 1rem; }
   .btn.active, .btn:hover {
     background: #ca9d23; }
 

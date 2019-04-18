@@ -41,7 +41,7 @@
 - title: Desert Black Splitface
   image:  /assets/img/products/stackstone/desert-black-splitface.jpg
   product_size:  6" x 24"
-  nature: Quartzite
+  nature: Slate 
   formats: 
     - flats
     - corners
@@ -68,8 +68,7 @@
     - flats
     - corners
   finishes: 
-    - Split face
-    - Rock face
+    - Broken face
 
 - title: French Cremar Brokenface
   image: /assets/img/products/stackstone/french-cremar-brokenface.jpg
@@ -174,7 +173,7 @@
 - title: Desert Black Rockface 
   image: /assets/img/products/stackstone/desert-black-rockface.jpg
   product_size:  6" x 24"
-  nature: Quartzite
+  nature: Slate 
   formats: 
     - flats
     - corners

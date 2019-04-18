@@ -27,6 +27,10 @@ a {
   &:hover { color: $navy; }
 }
 
+.callout-text {
+  color: green;
+  font-weight: bold;
+}
 
 ul.image-list {
   color: $white;

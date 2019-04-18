@@ -227,6 +227,10 @@ a {
   a:hover {
     color: #161D3B; }
 
+.callout-text {
+  color: green;
+  font-weight: bold; }
+
 ul.image-list {
   color: #F1F1F1;
   padding: 1rem 2rem; }

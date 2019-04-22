@@ -470,30 +470,33 @@ nav.navbar {
       padding: 4rem 0; } }
   .splash .slick-slider {
     max-height: 150px; }
+    @media (min-width: 576px) {
+      .splash .slick-slider {
+        max-height: 150px; } }
     @media (min-width: 768px) {
       .splash .slick-slider {
+        max-height: 221px;
         max-height: none; } }
-  .splash .text {
-    text-align: left;
-    position: relative;
-    z-index: 1; }
-    @media (min-width: 768px) {
-      .splash .text {
-        text-align: center; } }
-  .splash .text h2 {
-    color: #DEB137;
-    font-size: 32px;
-    line-height: 1.2; }
-    @media (min-width: 768px) {
-      .splash .text h2 {
-        font-size: 50px; } }
-  .splash .text p {
-    color: #F1F1F1;
-    font-size: 2rem; }
-  .splash .text .btn:nth-of-type(1) {
-    margin-right: 0.5rem; }
-  .splash .text .btn:nth-of-type(2) {
-    margin-left: 0.5rem; }
+
+.intro-text {
+  text-align: left;
+  position: relative;
+  z-index: 1; }
+  @media (min-width: 768px) {
+    .intro-text {
+      text-align: center; } }
+
+.intro-text h2 {
+  color: #DEB137;
+  font-size: 32px;
+  line-height: 1.2; }
+  @media (min-width: 768px) {
+    .intro-text h2 {
+      font-size: 50px; } }
+
+.intro-text p {
+  color: #F1F1F1;
+  font-size: 2rem; }
 
 .card.blue-grey {
   min-height: 176px; }

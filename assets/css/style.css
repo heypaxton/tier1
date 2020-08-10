@@ -284,6 +284,9 @@ form textarea {
 .about-page .about-banner {
   width: 100%; }
 
+.alert-bar p {
+  color: #161D3B; }
+
 .btn {
   background: #DEB137;
   border: 0.0625rem solid #ca9d23;

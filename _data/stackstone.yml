@@ -1,5 +1,5 @@
-- title: Amazon
-  image: /assets/img/products/stackstone/amazon.jpg
+- title: Amazon Splitface
+  image: /assets/img/products/stackstone/amazon-splitface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -8,8 +8,8 @@
   finishes: 
     - Split face
 
-- title: Mocha
-  image: /assets/img/products/stackstone/mocha.jpg
+- title: Mocha Splitface
+  image: /assets/img/products/stackstone/mocha-splitface.jpg
   product_size: 6" x 24"
   nature: Quartzite
   formats:
@@ -18,10 +18,10 @@
   finishes:
     - Split face
 
-- title: Alpine Grey
-  image: /assets/img/products/stackstone/alpine-grey.jpg
+- title: Alpine Grey Splitface
+  image: /assets/img/products/stackstone/alpine-grey-splitface.jpg
   product_size:  6" x 24"
-  nature: Slate 
+  nature: Quartzite 
   formats: 
     - flats
     - corners
@@ -39,7 +39,18 @@
     - Split face
 
 - title: Desert Black Splitface
-  image:  /assets/img/products/stackstone/desert-black.jpg
+  image:  /assets/img/products/stackstone/desert-black-splitface.jpg
+  product_size:  6" x 24"
+  nature: Slate 
+  formats: 
+    - flats
+    - corners
+  finishes: 
+    - Split face
+    - Rock face
+
+- title: Niagra Rockface
+  image:  /assets/img/products/stackstone/niagra-rockface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -49,30 +60,18 @@
     - Split face
     - Rock face
 
-- title: Niagra
-  image:  /assets/img/products/stackstone/niagra.jpg
+- title: Portland Brokenface
+  image:  /assets/img/products/stackstone/portland-brokenface.jpg
   product_size:  6" x 24"
-  nature: Quartzite
+  nature: Sandstone
   formats: 
     - flats
     - corners
   finishes: 
-    - Split face
-    - Rock face
+    - Broken face
 
-- title: Portland
-  image:  /assets/img/products/stackstone/portland.jpg
-  product_size:  6" x 24"
-  nature: Quartzite
-  formats: 
-    - flats
-    - corners
-  finishes: 
-    - Split face
-    - Rock face
-
-- title: French Cremar
-  image: /assets/img/products/stackstone/french-cremar.jpg
+- title: French Cremar Brokenface
+  image: /assets/img/products/stackstone/french-cremar-brokenface.jpg
   product_size:  6" x 24"
   nature: Limestone
   formats: 
@@ -91,8 +90,8 @@
   finishes: 
     - Rock face
 
-- title: Harappa Gold
-  image: /assets/img/products/stackstone/harappa-gold.jpg
+- title: Harappa Gold Splitface
+  image: /assets/img/products/stackstone/harappa-gold-splitface.jpg
   product_size:  6" x 24"
   nature: Slate
   formats: 
@@ -101,8 +100,8 @@
   finishes: 
     - Split face
 
-- title: White Quartzite
-  image: /assets/img/products/stackstone/white-quartzite.jpg
+- title: White Quartzite Splitface
+  image: /assets/img/products/stackstone/white-quartzite-splitface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -111,8 +110,8 @@
   finishes: 
     - Split face
 
-- title: Damascus Green 
-  image: /assets/img/products/stackstone/damascus-green.jpg
+- title: Damascus Green Splitface
+  image: /assets/img/products/stackstone/damascus-green-splitface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -121,8 +120,8 @@
   finishes: 
     - Split face
 
-- title: Copper Gold 
-  image: /assets/img/products/stackstone/copper-gold.jpg
+- title: Copper Gold Splitface
+  image: /assets/img/products/stackstone/copper-gold-splitface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -131,8 +130,8 @@
   finishes: 
     - Split face
 
-- title: Titanium
-  image: /assets/img/products/stackstone/titanium.jpg
+- title: Titanium Rockface
+  image: /assets/img/products/stackstone/titanium-rockface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -151,8 +150,8 @@
   finishes: 
     - Split face
 
-- title: Manhattan
-  image: /assets/img/products/stackstone/manhattan.jpg
+- title: Manhattan Splitface
+  image: /assets/img/products/stackstone/manhattan-splitface.jpg
   product_size:  6" x 24"
   nature: Quartzite
   formats: 
@@ -174,7 +173,7 @@
 - title: Desert Black Rockface 
   image: /assets/img/products/stackstone/desert-black-rockface.jpg
   product_size:  6" x 24"
-  nature: Quartzite
+  nature: Slate 
   formats: 
     - flats
     - corners

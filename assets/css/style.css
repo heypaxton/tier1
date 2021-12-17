@@ -227,6 +227,10 @@ a {
   a:hover {
     color: #161D3B; }
 
+.callout-text {
+  color: green;
+  font-weight: bold; }
+
 ul.image-list {
   color: #F1F1F1;
   padding: 1rem 2rem; }
@@ -265,7 +269,8 @@ form .select-wrapper {
   form .select-wrapper input.select-dropdown {
     border: none !important;
     padding-left: 1rem;
-    margin: 5px 0 10px 0; }
+    margin: 5px 0 10px 0;
+    z-index: 1; }
     form .select-wrapper input.select-dropdown:focus {
       border: none; }
   form .select-wrapper .caret {
@@ -279,11 +284,15 @@ form textarea {
 .about-page .about-banner {
   width: 100%; }
 
+.alert-bar p {
+  color: #161D3B; }
+
 .btn {
   background: #DEB137;
   border: 0.0625rem solid #ca9d23;
   color: #444444;
-  font-family: "Playfair Display", "Georgia", "Times", serif; }
+  font-family: "Playfair Display", "Georgia", "Times", serif;
+  font-size: 0.8rem; }
   .btn.active, .btn:hover {
     background: #ca9d23; }
 
@@ -355,7 +364,7 @@ nav.navbar {
     padding: 1rem;
     text-align: center; }
     .product-card .description h4 {
-      font-size: 1.125rem; }
+      font-size: 1rem; }
   .product-card .details {
     background: rgba(255, 255, 255, 0.9);
     display: none;
@@ -447,7 +456,7 @@ nav.navbar {
 .sidenav {
   display: none;
   position: fixed;
-  top: 41px;
+  top: 37px;
   z-index: 1000;
   padding: 1rem;
   background: #DEB137;
@@ -464,30 +473,33 @@ nav.navbar {
       padding: 4rem 0; } }
   .splash .slick-slider {
     max-height: 150px; }
+    @media (min-width: 576px) {
+      .splash .slick-slider {
+        max-height: 150px; } }
     @media (min-width: 768px) {
       .splash .slick-slider {
+        max-height: 221px;
         max-height: none; } }
-  .splash .text {
-    text-align: left;
-    position: relative;
-    z-index: 1; }
-    @media (min-width: 768px) {
-      .splash .text {
-        text-align: center; } }
-  .splash .text h2 {
-    color: #DEB137;
-    font-size: 32px;
-    line-height: 1.2; }
-    @media (min-width: 768px) {
-      .splash .text h2 {
-        font-size: 50px; } }
-  .splash .text p {
-    color: #F1F1F1;
-    font-size: 2rem; }
-  .splash .text .btn:nth-of-type(1) {
-    margin-right: 0.5rem; }
-  .splash .text .btn:nth-of-type(2) {
-    margin-left: 0.5rem; }
+
+.intro-text {
+  text-align: left;
+  position: relative;
+  z-index: 1; }
+  @media (min-width: 768px) {
+    .intro-text {
+      text-align: center; } }
+
+.intro-text h2 {
+  color: #DEB137;
+  font-size: 32px;
+  line-height: 1.2; }
+  @media (min-width: 768px) {
+    .intro-text h2 {
+      font-size: 50px; } }
+
+.intro-text p {
+  color: #F1F1F1;
+  font-size: 2rem; }
 
 .card.blue-grey {
   min-height: 176px; }

@@ -27,10 +27,6 @@ a {
   &:hover { color: $navy; }
 }
 
-.callout-text {
-  color: green;
-  font-weight: bold;
-}
 
 ul.image-list {
   color: $white;
@@ -83,7 +79,6 @@ form {
       border: none !important; 
       padding-left: 1rem;
       margin: 5px 0 10px 0;
-      z-index: 1;
 
       &:focus {
         border: none;

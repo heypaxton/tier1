@@ -8,39 +8,41 @@
   }
   
   .slick-slider {
-    @include mq-s {
-      max-height: 150px;
-    }
     max-height: 150px;
     @include mq-m {
-      max-height: 221px;
       max-height: none;
     }
   }
-}
+  
+  .text {
+    text-align: left;
+    position: relative;
+    z-index: 1;
 
-.intro-text {
-  text-align: left;
-  position: relative;
-  z-index: 1;
+    @include mq-m {
+      text-align: center; 
+    }
+  }
 
-  @include mq-m {
-    text-align: center; 
+  .text h2 {
+    color: $gold;
+    font-size: 32px;
+    line-height: 1.2;
+
+    @include mq-m {
+      font-size: 50px;
+    }
+  }
+
+  .text p {
+    color: $white;
+    font-size: 2rem;
+  }
+
+  .text .btn:nth-of-type(1) {
+    margin-right: 0.5rem;
+  }
+  .text .btn:nth-of-type(2) {
+    margin-left: 0.5rem;
   }
 }
-
-.intro-text h2 {
-  color: $gold;
-  font-size: 32px;
-  line-height: 1.2;
-
-  @include mq-m {
-    font-size: 50px;
-  }
-}
-
-.intro-text p {
-  color: $white;
-  font-size: 2rem;
-}
-
